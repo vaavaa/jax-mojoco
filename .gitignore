@@ -1,0 +1,16 @@
+# uv
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# pytest
+.pytest_cache/
+
+# setuptools / build
+*.egg-info/
+*.egg
+dist/
+build/
