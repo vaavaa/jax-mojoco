@@ -1,6 +1,9 @@
 # uv
 .venv/
 
+# env / secrets
+.env
+
 # Python
 __pycache__/
 *.py[cod]
